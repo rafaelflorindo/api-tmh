@@ -5,6 +5,8 @@ API desenvolvida em **Node.js**, utilizando **Express**, **MySQL** e **Sequelize
 Este projeto é utilizado como **API educacional**, servindo de backend para a disciplina de **Computação Móvel**.
 
 API rodando em: https://api-tmh.onrender.com/
+
+Banco de Dados Hospedado em: https://railway.com/
 ---
 
 ## 🎯 Objetivo do Projeto
