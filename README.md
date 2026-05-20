@@ -6,7 +6,7 @@ Este projeto é utilizado como **API educacional**, servindo de backend para a d
 
 API rodando em: https://api-tmh.onrender.com/
 
-Banco de Dados Hospedado em: [https://railway.com/](https://console.aiven.io/)
+Banco de Dados Hospedado em: [https://console.aiven.io/](https://console.aiven.io/)
 
 Poderia ser exportado em:
 Banco de Dados Hospedado em: https://railway.com/
